@@ -86,6 +86,17 @@ This project is licensed under the MIT License.
 This project utilizes the Firebase Admin SDK for Firestore interaction.
 The movie details are fetched from the OMDB API (Open Movie Database).
 Special thanks to the creators and maintainers of the node-telegram-bot-api package.
+## 📬 Contact
 
+Feel free to reach out to me via the following channels:
+
+- **Email**: [mssannitya@gmail.com]
+- **LinkedIn**: [https://www.linkedin.com/in/m-s-052080214/]
+
+## 🌟 Let's Connect!
+
+I'm always eager to collaborate on exciting projects or discuss interesting ideas. Connect with me, and let's create something awesome together!
+
+Thank you for stopping by! ✨
 
 
