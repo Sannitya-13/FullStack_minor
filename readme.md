@@ -34,7 +34,7 @@
 ```bash
 git clone https://github.com/your-username/firebase-telegram-movie-bot.git
 cd firebase-telegram-movie-bot
-
+ ```
 Install dependencies:
 npm install
 💡 Usage
