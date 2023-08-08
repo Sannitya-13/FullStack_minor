@@ -14,7 +14,6 @@
 - ⚙️ [Configuration](#configuration)
 - ⚙️ [How it Works](#how-it-works)
 - 🤝 [Contributing](#contributing)
-- 📝 [License](#license)
 - 🙏 [Acknowledgements](#acknowledgements)
 <!-- Project Showcase: Google Drive Link -->
 ## 📂 Project Showcase:
@@ -77,15 +76,12 @@ If the movie is not found, the bot sends a "Movie not found" message to the user
 ### 🤝 Contributing
 Contributions to the project are welcome! If you find any issues or have improvements to suggest, please create a pull request.
 
-<!-- License -->
-### 📝 License
-This project is licensed under the MIT License.
-
 <!-- Acknowledgements -->
 ### 🙏 Acknowledgements
 This project utilizes the Firebase Admin SDK for Firestore interaction.
 The movie details are fetched from the OMDB API (Open Movie Database).
 Special thanks to the creators and maintainers of the node-telegram-bot-api package.
+
 ## 📬 Contact
 
 Feel free to reach out to me via the following channels:
